@@ -1,0 +1,9 @@
+path: /home/viva/Escritorio/Yolo/cctv_car_bike.v3i.yolov8
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: 
+  0: car
+  1: motorbike
